@@ -3,6 +3,6 @@ package br.com.torrent;
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
 @QuarkusIntegrationTest
-class GreetingResourceIT extends GreetingResourceTest {
+class DownloaderIT extends DownloaderTest {
     // Execute the same tests but in packaged mode.
 }
